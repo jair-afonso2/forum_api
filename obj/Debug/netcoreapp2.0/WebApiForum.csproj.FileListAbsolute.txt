@@ -1,0 +1,10 @@
+/Users/corujasdev/visualstudiocode/dotnetcore/WebApiForum/bin/Debug/netcoreapp2.0/WebApiForum.deps.json
+/Users/corujasdev/visualstudiocode/dotnetcore/WebApiForum/bin/Debug/netcoreapp2.0/WebApiForum.runtimeconfig.json
+/Users/corujasdev/visualstudiocode/dotnetcore/WebApiForum/bin/Debug/netcoreapp2.0/WebApiForum.runtimeconfig.dev.json
+/Users/corujasdev/visualstudiocode/dotnetcore/WebApiForum/bin/Debug/netcoreapp2.0/WebApiForum.dll
+/Users/corujasdev/visualstudiocode/dotnetcore/WebApiForum/bin/Debug/netcoreapp2.0/WebApiForum.pdb
+/Users/corujasdev/visualstudiocode/dotnetcore/WebApiForum/obj/Debug/netcoreapp2.0/WebApiForum.csproj.CoreCompileInputs.cache
+/Users/corujasdev/visualstudiocode/dotnetcore/WebApiForum/obj/Debug/netcoreapp2.0/WebApiForum.AssemblyInfoInputs.cache
+/Users/corujasdev/visualstudiocode/dotnetcore/WebApiForum/obj/Debug/netcoreapp2.0/WebApiForum.AssemblyInfo.cs
+/Users/corujasdev/visualstudiocode/dotnetcore/WebApiForum/obj/Debug/netcoreapp2.0/WebApiForum.dll
+/Users/corujasdev/visualstudiocode/dotnetcore/WebApiForum/obj/Debug/netcoreapp2.0/WebApiForum.pdb
